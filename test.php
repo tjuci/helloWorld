@@ -1,4 +1,4 @@
 test
 testedit
 
-yes
+yes or no
